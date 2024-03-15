@@ -1,7 +1,7 @@
 # Food-Website
 
 This is a Food Blog website
-and this website design are apply to Tailwind css
+and this website design are apply to Tailwind css  and Reactjs 
 
 src{
 1 App.css
